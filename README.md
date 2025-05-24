@@ -1,0 +1,3 @@
+SESSION_SECRET="5caaf808c7c1417585afdea7666a38cd6a6461b243a3ceeab2dda26af1fec9692fab829a4cb1642aeed02cf0034de3aa096e4e90297371fcda14e1eacfc8daf6"
+MONGODB_URI="mongodb+srv://maimizuno:ZNDHe1twqS7ir0vT@medicalhistorytaker.3ya8j.mongodb.net/medical_history_db?retryWrites=true&w=majority&appName=MedicalHistoryTaker"
+QUESTION_ID="670d068a4ba8ed07b544d7e4"
